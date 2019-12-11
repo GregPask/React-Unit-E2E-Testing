@@ -1,4 +1,4 @@
-# React-Redux-Unit/E2E Testing
+# React-Redux-Unit/E2E Testing Practice 
 
 Barebones React-redux app that uses Enzyme/Jest to test functional && connected components. Use this for future snippets.
 
