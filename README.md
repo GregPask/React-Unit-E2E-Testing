@@ -1,6 +1,6 @@
 # React-Redux-Unit/E2E Testing
 
-Barebones React-redux app that has uses Enzyme/Jest to test functional && connected components. Use this for future snippets.
+Barebones React-redux app that uses Enzyme/Jest to test functional && connected components. Use this for future snippets.
 
 
 ## Quick Start
