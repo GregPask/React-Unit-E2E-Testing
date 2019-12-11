@@ -10,7 +10,7 @@ Barebones React-redux app that uses Enzyme/Jest to test functional && connected 
 > npm install
 
 # Run Unit Tests
-> npm run test
+> npm run test -- --verbose
 
 
 # Run End-to-End tests
